@@ -1,0 +1,23 @@
+.landing {
+    background-image: linear-gradient(135deg, #1da1f2, #981ceb);
+    height: 100vh;
+}
+
+.info{
+    padding-top: 250px;
+}
+
+.infoText{
+    padding-bottom: 50px;
+    justify-content: center;
+    display: flex;
+}
+
+.btn-in {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-in a{
+    width: 125px;
+}
